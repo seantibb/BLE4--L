@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="strbtnFindDevices">Find Devices</string>
+    <string name="strbtnSendData">Send Phone Data</string>
+    <string name="title_activity_find_devices">Find Nearby Devices</string>
+    <string name="BLE_UUID">7a7fd302-f470-4cba-a57e-dbfa2d957d9d</string>
+    <string name="ble_not_supported">Bluetooth Low Energy not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported</string>
+
+
+</resources>
